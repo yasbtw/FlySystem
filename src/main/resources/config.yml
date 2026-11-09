@@ -1,0 +1,4 @@
+permission: "flysystem.fly"
+no-permission: "&cYou do not have any permission"
+start: "&l[Fly] &rYou are now able to fly."
+stop: "&l[Fly] &rYou are no longer able to fly."

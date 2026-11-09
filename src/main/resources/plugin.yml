@@ -1,0 +1,10 @@
+name: FlySystem
+version: '${version}'
+
+main: me.yas.btw.flySystem.FlySystem
+api-version: '1.21'
+load: POSTWORLD
+commands:
+  fly:
+    usage: <command>
+    description: cool command
